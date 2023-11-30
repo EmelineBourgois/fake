@@ -20,7 +20,7 @@
       "date": "15-18 2024",
       "time": "11:00",
       "organisation": "Chokri Mahassine",
-      "image": "./assets/Pukkelpop.jpg"
+      "image": "https://i.scdn.co/image/ab67706c0000da84480fd9b24651a68eefd9faed"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
       "organisation": "Weareone",
-      "image": "./src/assets/tomorrowland.jpg"
+      "image": "https://c.ststat.net/content/entimg/tour/tomorrowland-new-year-s-eve-1347908605-300x300.jpg"
     }
   ]
 }
