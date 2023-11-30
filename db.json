@@ -8,7 +8,8 @@
       "location": "Wechter",
       "date": "4-7 juli 2024",
       "time": "12:00",
-      "organisation": "Noël Steen"
+      "organisation": "Noël Steen",
+      "image": "./assets/Rock-Wechter.jpg"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "location": "Kiewit, Hasselt",
       "date": "15-18 2024",
       "time": "11:00",
-      "organisation": "Chokri Mahassine"
+      "organisation": "Chokri Mahassine",
+      "image": "./assets/Pukkelpop.jpg"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
-      "organisation": "Weareone"
+      "organisation": "Weareone",
+      "image": "./src/assets/tomorrowland.jpg"
     }
   ]
 }
