@@ -63,18 +63,18 @@
       "date": "22-26 June 2024",
       "time": "Varies",
       "organisation": "Glastonbury Festivals",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Glastonbury_Festival_2014%2C_Pilton%2C_Somerset%2C_UK_%28-%29_-_panoramio.jpg/300px-Glastonbury_Festival_2014%2C_Pilton%2C_Somerset%2C_UK_%28-%29_-_panoramio.jpg"
+      "image": "https://c.ststat.net/content/entimg/tour/glastonbury-2022-1232679703-300x300.png"
     },
     {
       "id": 7,
       "category": "Pop, Indie, Electronic, Hip Hop",
       "title": "Coachella Valley Music and Arts Festival",
-      "description": "Coachella is a renowned music and arts festival in California known for its star-studded lineups and diverse performances.",
+      "description": "Coachella is a renowned music and arts festival in California known for its star-studded lineups and performances.",
       "location": "Indio, California, USA",
       "date": "14-16 April and 21-23 April 2024",
       "time": "Varies",
       "organisation": "Goldenvoice",
-      "image": "https://i.scdn.co/image/ab67706c0000da84aa2a5d477b848581778e0cb1"
+      "image": "https://images.sk-static.com/images/media/profile_images/series/876/huge_avatar"
     },
     {
       "id": 8,
@@ -96,7 +96,7 @@
       "date": "25-27 August 2024",
       "time": "Varies",
       "organisation": "Festival Republic",
-      "image": "https://i.scdn.co/image/ab67706c0000da8433607ce9e00e8ddfc0a398f0"
+      "image": "https://i.scdn.co/image/ab6775700000ee85dfbd0b5118c0445d7b91bc78"
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
       "date": "7-14 August 2024",
       "time": "Varies",
       "organisation": "Sziget Cultural Management",
-      "image": "https://i.scdn.co/image/ab67706c0000da84b3ec646f93f4e44f1c222c8e"
+      "image": "https://i.scdn.co/image/ab6775700000ee852b26d3a8ab30716a9befd0e2"
     }
   ]
 }
