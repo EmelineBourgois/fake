@@ -53,6 +53,61 @@
       "time": "12:00",
       "organisation": "Bob Schoenmaekers",
       "image": "https://i.scdn.co/image/ab67706c0000da845f77d99e3fbd443d9232d2c7"
+    },
+    {
+      "id": 6,
+      "category": "Various",
+      "title": "Glastonbury Festival",
+      "description": "Glastonbury is one of the largest and most iconic music festivals in the world, featuring a diverse lineup of artists across various genres.",
+      "location": "Pilton, Somerset, England",
+      "date": "22-26 June 2024",
+      "time": "Varies",
+      "organisation": "Glastonbury Festivals",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Glastonbury_Festival_2014%2C_Pilton%2C_Somerset%2C_UK_%28-%29_-_panoramio.jpg/300px-Glastonbury_Festival_2014%2C_Pilton%2C_Somerset%2C_UK_%28-%29_-_panoramio.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Pop, Indie, Electronic, Hip Hop",
+      "title": "Coachella Valley Music and Arts Festival",
+      "description": "Coachella is a renowned music and arts festival in California known for its star-studded lineups and diverse performances.",
+      "location": "Indio, California, USA",
+      "date": "14-16 April and 21-23 April 2024",
+      "time": "Varies",
+      "organisation": "Goldenvoice",
+      "image": "https://i.scdn.co/image/ab67706c0000da84aa2a5d477b848581778e0cb1"
+    },
+    {
+      "id": 8,
+      "category": "Rock, Electronic, Hip Hop",
+      "title": "Roskilde Festival",
+      "description": "Roskilde is one of the largest music festivals in Europe, known for its diverse lineup and focus on social responsibility.",
+      "location": "Roskilde, Denmark",
+      "date": "29 June - 2 July 2024",
+      "time": "Varies",
+      "organisation": "Roskilde Festival Charity Society",
+      "image": "https://i.scdn.co/image/ab67706c0000da841c4e4139f4d5b872be18650b"
+    },
+    {
+      "id": 9,
+      "category": "Rock, Alternative, Indie",
+      "title": "Reading and Leeds Festivals",
+      "description": "Reading and Leeds are twin festivals held simultaneously, featuring a mix of rock, alternative, and indie music.",
+      "locations": "Reading, England / Leeds, England",
+      "date": "25-27 August 2024",
+      "time": "Varies",
+      "organisation": "Festival Republic",
+      "image": "https://i.scdn.co/image/ab67706c0000da8433607ce9e00e8ddfc0a398f0"
+    },
+    {
+      "id": 10,
+      "category": "Multigenre",
+      "title": "Sziget Festival",
+      "description": "Sziget is a multicultural music and arts festival held on an island in the heart of Budapest, attracting visitors from around the world.",
+      "location": "Budapest, Hungary",
+      "date": "7-14 August 2024",
+      "time": "Varies",
+      "organisation": "Sziget Cultural Management",
+      "image": "https://i.scdn.co/image/ab67706c0000da84b3ec646f93f4e44f1c222c8e"
     }
   ]
 }
