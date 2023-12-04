@@ -32,7 +32,8 @@
       "time": "11:00",
       "organisation": "Weareone",
       "image": "https://c.ststat.net/content/entimg/tour/tomorrowland-new-year-s-eve-1347908605-300x300.jpg"
-    }, {
+    },
+    {
       "id": 4,
       "category": "Jazz",
       "title": "Gent Jazz Festival",
@@ -108,6 +109,61 @@
       "time": "Varies",
       "organisation": "Sziget Cultural Management",
       "image": "https://i.scdn.co/image/ab6775700000ee852b26d3a8ab30716a9befd0e2"
+    },
+    {
+      "id": 11,
+      "category": "Electronic Dance",
+      "title": "Tomorrowland Winter",
+      "description": "Experience the magic of Tomorrowland in the snowy landscapes of the Alps during the winter edition.",
+      "location": "Alpe d'Huez, France",
+      "date": "12-14 March 2024",
+      "time": "11:00",
+      "organisation": "Weareone",
+      "image": "https://i.scdn.co/image/ab67706c0000da84a10d2c1ac9bb315fe66e0541"
+    },
+    {
+      "id": 12,
+      "category": "Electronic Dance",
+      "title": "Tomorrowland Around the World",
+      "description": "Join the global celebration of electronic dance music with Tomorrowland's virtual experience.",
+      "location": "Virtual Event",
+      "date": "20-21 July 2024",
+      "time": "Varies",
+      "organisation": "Weareone",
+      "image": "https://i.scdn.co/image/ab67706c0000da844e80da8d22ba2b040e07075c"
+    },
+    {
+      "id": 13,
+      "category": "Rock",
+      "title": "Rock Werchter Boutique",
+      "description": "Rock Werchter Boutique brings the best of rock music to a special boutique edition in Belgium.",
+      "location": "Leuven, Belgium",
+      "date": "8 July 2024",
+      "time": "16:00",
+      "organisation": "Noël Steen",
+      "image": "https://i.scdn.co/image/ab67706c0000da84f3d1641f3209d88c5b536bf"
+    },
+    {
+      "id": 14,
+      "category": "Pop, Indie",
+      "title": "Primavera Sound",
+      "description": "Primavera Sound is a renowned music festival featuring a diverse lineup of pop and indie artists.",
+      "location": "Barcelona, Spain",
+      "date": "2-4 June 2024",
+      "time": "14:00",
+      "organisation": "Primavera Sound S.L.",
+      "image": "https://i.scdn.co/image/ab67706c0000da84a6785b882f3dd49e8d5f86a0"
+    },
+    {
+      "id": 15,
+      "category": "Hip Hop, R&B",
+      "title": "Wireless Festival",
+      "description": "Wireless Festival showcases the best of hip hop and R&B music in the heart of London.",
+      "location": "London, United Kingdom",
+      "date": "8-10 July 2024",
+      "time": "12:00",
+      "organisation": "Live Nation Entertainment",
+      "image": "https://i.scdn.co/image/ab67706c0000da84f80d8a3d61c3db0b5878af4"
     }
   ]
 }
